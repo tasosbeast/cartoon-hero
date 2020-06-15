@@ -22,4 +22,8 @@ main {
 	margin-left: 250px;
 	margin-top: 40px;
 	background-color: rgba(166, 112, 58, 0.49);
+
+}
+.img2 {
+	float:left;
 }
