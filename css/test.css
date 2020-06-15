@@ -1,0 +1,32 @@
+body {
+	background-color: Black;
+}
+
+h1 {font-size: 30px;
+	color: Magenta;
+	border: solid 10px;
+	background-color: DarkBlue;
+	margin: 20px;
+	text-align: center;
+	margin-right: 330px;
+	margin-left: 330px;
+	padding: 2px;
+}
+h2{
+	color: Blue;
+	font-size: 20px;
+	border: solid 5px;
+	border-radius: 10px;
+	background-color: Teal;
+	margin: 20px; 
+	padding: 10px;
+	text-align: center;
+	margin-right: 330px;
+	margin-left: 330px;
+	padding: 2px;
+}
+.midle {
+	color: Yellow;
+	border-color: Aqua;
+	font-size: 40px;
+}
